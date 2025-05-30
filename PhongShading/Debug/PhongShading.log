@@ -1,0 +1,23 @@
+﻿  main_Phong_Shader.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(214,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(215,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(364,74): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(364,68): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(364,63): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(364,58): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(364,52): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(370,14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taka\Desktop\CGAssignment7\PhongShading\main_Phong_Shader.cpp(372,11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  PhongShading.vcxproj -> C:\Users\taka\Desktop\CGAssignment7\bin\PhongShading.exe
